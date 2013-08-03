@@ -63,5 +63,5 @@ You should have received a copy of the GNU General Public License
 along with this software package (see the LICENSE file). If not,
 see <http://www.gnu.org/licenses/>.
 
+![githalytics.com alpha](https://cruel-carlota.pagodabox.com/3a35976cbccc883c12204a179a9304dd "githalytics.com")](http://githalytics.com/columbialawschool/mailchimp-export-api-php)
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/columbialawschool/mailchimp-export-api-php/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
