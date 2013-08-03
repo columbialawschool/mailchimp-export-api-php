@@ -62,3 +62,6 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this software package (see the LICENSE file). If not,
 see <http://www.gnu.org/licenses/>.
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/columbialawschool/mailchimp-export-api-php/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
